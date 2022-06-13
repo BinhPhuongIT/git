@@ -121,3 +121,4 @@ git diff hash-commit1 hash-commit2
 #Kiểm tra sự thay đổi của hai nhánh
 git diff branch1 branch2
 
+#sda
